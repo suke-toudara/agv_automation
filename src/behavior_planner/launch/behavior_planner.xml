@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+   <node pkg="behavior_planner" exec="behavior_planner" output="screen">
+        <!-- <param name="robot_description" value="$(var robot_description)"/> -->
+    </node>
+</launch>
